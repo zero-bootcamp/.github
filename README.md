@@ -1,1 +1,1 @@
-# .github
+# Zero eDiscovery bootcamp projects
